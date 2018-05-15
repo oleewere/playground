@@ -2,4 +2,4 @@
 
 [mylink](#idekatt)
 
-### <a name="idekatt">My Header</a>
+### <a id="idekatt">My Header</a>
